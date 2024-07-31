@@ -3,5 +3,5 @@ void main(List<String> arguments) {
 }
 
 printMyName() {
-  print("hello turki");
+  print("helasdflo turki");
 }
