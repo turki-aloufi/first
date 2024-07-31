@@ -10,3 +10,6 @@ printMyName() {
 login() {
   return false;
 }
+login1() {
+  return true;
+}
